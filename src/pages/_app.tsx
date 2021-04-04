@@ -7,10 +7,10 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Mapa do folclore brasileiro</title>
+        <title>Folklore Map</title>
         <meta
           name="description"
-          content="Um projeto que visa mostrar o mapa do folclore brasileiro"
+          content="An Interactive Map of Folklore and Myths in the World"
         />
         <meta name="theme-color" content="#06092b" />
         <link rel="shortcut icon" href="/img/icon-512.png" />
