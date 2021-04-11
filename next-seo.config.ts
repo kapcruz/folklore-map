@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: '',
+    url: 'https://folklore-map.vercel.app',
     site_name: 'Folklore Map'
   },
   twitter: {

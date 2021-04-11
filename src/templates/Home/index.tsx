@@ -14,15 +14,15 @@ export default function HomeTemplate({ places }: MapProps) {
       <NextSeo
         title="Folklore Map"
         description="An Interactive Map of Folklore and Myths in the World and show more informations and photos when clicked."
-        canonical=""
+        canonical="https://folklore-map.vercel.app"
         openGraph={{
-          url: '',
+          url: 'https://folklore-map.vercel.app',
           title: 'Folklore Map',
           description:
             'An Interactive Map of Folklore and Myths in the World and show more informations and photos when clicked.',
           images: [
             {
-              url: '',
+              url: 'https://folklore-map.vercel.app/img/cover.png',
               width: 1280,
               height: 720,
               alt: 'Folklore Map'

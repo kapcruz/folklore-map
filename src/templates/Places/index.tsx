@@ -38,9 +38,9 @@ export default function PlacesTemplate({ place }: PlacesTemplateProps) {
           place.description?.text ||
           'An Interactive Map of Folklore and Myths in the World and show more informations and photos when clicked.'
         }
-        canonical=""
+        canonical="https://folklore-map.vercel.app"
         openGraph={{
-          url: '',
+          url: 'https://folklore-map.vercel.app',
           title: `${place.name} - Folklore Map`,
           description:
             place.description?.text ||
