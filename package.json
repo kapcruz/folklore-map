@@ -20,6 +20,7 @@
   "dependencies": {
     "@graphql-codegen/add": "^2.0.2",
     "@styled-icons/evaicons-outline": "^10.18.0",
+    "@types/react-leaflet": "^2.8.1",
     "graphql": "^15.5.0",
     "graphql-request": "^3.4.0",
     "leaflet": "^1.7.1",
